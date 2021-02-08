@@ -1,6 +1,4 @@
 class Category:
-    #ledger = []
-    #name = ''
     balance = 0
 
     def __init__(self, x):
